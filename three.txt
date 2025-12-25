@@ -1,2 +1,4 @@
 we have to create a working RAG ML project to handle some key issues with MediAccess App
+firstly we have to develope a working API
+Secondly we have to establish a pattern for an AI assisted deployment 
 
